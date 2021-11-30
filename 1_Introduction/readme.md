@@ -1,6 +1,6 @@
 # 1. Introduction
 
-# Why machine learning matters
+## Why machine learning matters
 
 - Rapid advances in data storage and computer processing power have dramatically changed the game in recent years.
 - In 2015, Google trained a conversational agent (AI) that could not only convincingly interact with humans as a tech support helpdesk, but also discuss morality, express opinions, and answer general facts-based questions.
