@@ -23,3 +23,6 @@
 
 - **Artificial narrow intelligence (ANI)**: which can effectively perform a narrowly defined task.
 - Human-level **artificial general intelligence (AGI)**, also known as strong AI. The definition of an AGI is an artificial intelligence that can successfully perform _any intellectual task that a human being can_, including learning, planning and decision-making under uncertainty, communicating in natural language, making jokes, manipulating people, trading stocks, or… reprogramming itself.
+- If we create an AI that can improve itself, it would unlock a cycle of recursive self-improvement that could lead to an intelligence explosion over some unknown time period, ranging from many decades to a single day. ...this point referred to as the singularity.
+- after we unlock AI’s ability to recursively improve itself, it’s impossible to predict what will happen, just as mice who intentionally designed a human might have trouble predicting what the human would do to their world.
+- “researchers believe there is a 50% chance of AI outperforming humans in all tasks in 45 years” (Grace et al, 2017).
